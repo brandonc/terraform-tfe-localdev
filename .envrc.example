@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+export TFE_HOSTNAME=tfcdev-foobar.ngrok.io
